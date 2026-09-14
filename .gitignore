@@ -7,18 +7,4 @@
 *.db-shm
 *.db-wal
 
-# VS FileContentIndex
-FileContentIndex/
-*.vsidx
 
-# DesignTimeBuild
-DesignTimeBuild/
-*.dtbcache.v2
-
-# SLNX
-*.slnx
-*.sqlite
-
-# Bin/Obj
-bin/
-obj/
